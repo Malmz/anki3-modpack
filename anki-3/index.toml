@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/cheaper-map-crafting/data/cheaper_maps/recipes/cheap_maps.json"
+hash = "cd41604f917346be88f1e48cdebcb71bc6e564eb937c9733466c5dd01ba85a61"
+
+[[files]]
+file = "datapacks/cheaper-map-crafting/pack.mcmeta"
+hash = "db444665fedda77cff13658ad8c797906e9b24482de491adc0135624451903df"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
