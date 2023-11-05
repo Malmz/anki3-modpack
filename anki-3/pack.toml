@@ -1,0 +1,13 @@
+name = "Anki 3"
+author = "Carl Malmz"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0f320b83258ea46d26760e45ea814b42f78f40596f2d03abca5e9df6038c3a8d"
+
+[versions]
+fabric = "0.14.24"
+minecraft = "1.20.1"
