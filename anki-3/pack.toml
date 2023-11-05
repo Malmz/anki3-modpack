@@ -1,6 +1,7 @@
 name = "Anki 3"
 author = "Carl Malmz"
 version = "1.1.0"
+description = "Private modpack for the Anki 3 server"
 pack-format = "packwiz:1.1.0"
 
 [index]
