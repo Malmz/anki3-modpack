@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Anki 3-1.0.0/modrinth.index.json"
-hash = "4e18bcc5eaa7e316647a6c6826dd38455e7757ab9e6c1fc05b423dd68daaa3fb"
-
-[[files]]
-file = "mods.txt"
-hash = "949787036f1c69d56602fca84f62ffc822366c4136b613af010a683ef44e0f20"
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
@@ -407,10 +399,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
-
-[[files]]
-file = "mods2.txt"
-hash = "7fa74407926d82fc3e1df997078f69c95e17cc01e5ca74e60e4e0861544e8902"
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
