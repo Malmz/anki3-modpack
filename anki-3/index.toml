@@ -16,6 +16,11 @@ hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
 
 [[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "91cb77aca838a3456212796c727067e16d82997708d60a7a33673b404df82065"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
