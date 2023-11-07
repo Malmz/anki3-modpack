@@ -1,0 +1,13 @@
+name = "Keep Inventory Penalty"
+filename = "keep-inventory-penalty-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AhchOgvh/versions/DT1AuRcL/keep-inventory-penalty-2.0.1.jar"
+hash-format = "sha1"
+hash = "b995fb6625c9373e651a92de660c13c0b20b87f4"
+
+[update]
+[update.modrinth]
+mod-id = "AhchOgvh"
+version = "DT1AuRcL"

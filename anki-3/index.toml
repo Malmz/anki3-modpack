@@ -1,16 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
-file = "datapacks/cheaper-map-crafting/data/cheaper_maps/recipes/cheap_maps.json"
+file = "global_packs/required_data/cheaper-map-crafting/data/cheaper_maps/recipes/cheap_maps.json"
 hash = "cd41604f917346be88f1e48cdebcb71bc6e564eb937c9733466c5dd01ba85a61"
 
 [[files]]
-file = "datapacks/cheaper-map-crafting/pack.mcmeta"
+file = "global_packs/required_data/cheaper-map-crafting/pack.mcmeta"
 hash = "db444665fedda77cff13658ad8c797906e9b24482de491adc0135624451903df"
 
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
@@ -91,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+metafile = true
+
+[[files]]
+file = "mods/creeper-firework.pw.toml"
+hash = "3a4ec901844634526f3afc85390e0482f792b348df1b1059c30ac1a26a434f79"
 metafile = true
 
 [[files]]
@@ -179,6 +189,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
 metafile = true
@@ -196,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
+metafile = true
+
+[[files]]
+file = "mods/keep-inventory-penalty.pw.toml"
+hash = "87149d4d0ef59e3580721ba106832f5f6518d872d4fd46dea4244a65c4a28c4a"
 metafile = true
 
 [[files]]
