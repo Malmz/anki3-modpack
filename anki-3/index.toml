@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "feea0e394a4edd6b0a2d74d1338959acca011e3b56357db0f367fad592830494"
+
+[[files]]
 file = "global_packs/required_data/cheaper-map-crafting/data/cheaper_maps/recipes/cheap_maps.json"
 hash = "cd41604f917346be88f1e48cdebcb71bc6e564eb937c9733466c5dd01ba85a61"
 
