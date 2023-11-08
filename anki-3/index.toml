@@ -5,12 +5,12 @@ file = "config/create-server.toml"
 hash = "feea0e394a4edd6b0a2d74d1338959acca011e3b56357db0f367fad592830494"
 
 [[files]]
-file = "global_packs/required_data/cheaper-map-crafting/data/cheaper_maps/recipes/cheap_maps.json"
+file = "global_packs/required_data/CheaperMaps/data/cheaper_maps/recipes/cheap_maps.json"
 hash = "cd41604f917346be88f1e48cdebcb71bc6e564eb937c9733466c5dd01ba85a61"
 
 [[files]]
-file = "global_packs/required_data/cheaper-map-crafting/pack.mcmeta"
-hash = "db444665fedda77cff13658ad8c797906e9b24482de491adc0135624451903df"
+file = "global_packs/required_data/CheaperMaps/pack.mcmeta"
+hash = "fecc936b7e7c81c2a469cf02aaf01791ede4facb913053cc950dcf7906154061"
 
 [[files]]
 file = "mods/animatica.pw.toml"
